@@ -1,6 +1,6 @@
 # Search Lights 🌄
 
-The official version of Search Lights for NeoVim and Vim!
+The official version of [Search Lights](https://github.com/finnsjames/search-lights) for NeoVim and Vim!
 
 ## Installation
 
